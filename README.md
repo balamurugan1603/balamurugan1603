@@ -7,4 +7,4 @@
 
 
 
-[![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=balamurugan1603)](https://github.com/balamurugan1603/github-readme-stats&theme=dark)
+[![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=balamurugan1603&theme=highcontrast)](https://github.com/balamurugan1603/github-readme-stats)

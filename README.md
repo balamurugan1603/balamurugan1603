@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=balamurugan1603&color=brightgreen)
-
 
 - 📊 I'm a Data science and AI Enthusiast...
 - 🖥️ Exploring the world of Deep Learning practically...

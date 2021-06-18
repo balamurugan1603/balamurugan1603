@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 
-- 📊 I'm a Data science and AI Enthusiast...
-- 🖥️ Exploring the world of Deep Learning practically...
-- 🌱 Currently learning Flutter and azure AI...
+- 📊 I'm a Data science and AI Enthusiast. 
+- 💡 Regular participant in data science hackathons. 
+- 💻 Data science | ML & DL | Computer Vision | NLP
+- 🌱 Currently learning Flutter and ML in GCP.
 
 
 

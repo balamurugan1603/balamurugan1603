@@ -4,7 +4,6 @@
 - 📊 I'm a Data science and AI Enthusiast. 
 - 💡 Regular participant in data science hackathons. 
 - 💻 Data science | ML & DL | Computer Vision | NLP
-- 🌱 Currently learning Flutter and ML in GCP.
 
 
 

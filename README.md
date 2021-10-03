@@ -4,6 +4,7 @@
 - 📊 I'm a Data science and AI Enthusiast. 
 - 💡 Regular participant in data science hackathons. 
 - 💻 Data science | ML & DL | Computer Vision | NLP
+Fan clubs at all districts
 
 
 

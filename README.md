@@ -6,5 +6,4 @@
 - 👨‍💻 Data science | ML & DL | NLP | Computer Vision
 
 
-
-[![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=balamurugan1603&theme=highcontrast)](https://github.com/balamurugan1603/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balamurugan1603&theme=monokai)

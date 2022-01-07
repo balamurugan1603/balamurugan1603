@@ -50,4 +50,5 @@ class WhoAmI:
 <br>
 
 ## Connect with me :
-<a href="https://www.linkedin.com/in/bala-murugan-62073b212/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedIn)</a>
+<a href="https://www.linkedin.com/in/bala-murugan-62073b212/"> ![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn)</a>
+<a href="https://www.kaggle.com/balamurugan1603"> ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)</a>

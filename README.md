@@ -5,7 +5,7 @@
 ```py
 class WhoAmI:
 
-    '''About myself'''
+    ''' About myself '''
     
     user = "Balamurugan P"
     edu_status = "Pursuing B.Tech in CSE."
@@ -20,7 +20,7 @@ class WhoAmI:
    
     def get_volunteer_experience():
     
-        '''Returns (exp: list) : My experiences in technical communities.'''
+        ''' Returns (exp: list) : My experiences in technical communities. '''
         
         exp = [
            "Head - Machine Learning Cluster, Developer Community - SASTRA.",

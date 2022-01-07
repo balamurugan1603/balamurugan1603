@@ -1,14 +1,34 @@
 | ![image](https://user-images.githubusercontent.com/75413685/145682663-72a8a5c7-ef9f-403a-ab45-cf9122ecb27f.png) |
 | --- |
 
-### Hi there 👋
+### Hey there 👋
+```py
+class WhoAmI:
 
-
-- 📊 I'm a Data science and AI Enthusiast. 
-- 💡 Regular participant in data science hackathons. 
-- 👨‍💻 Data science | ML & DL | NLP | Computer Vision
-
-<br>
+    '''About myself'''
+    
+    user = "Balamurugan P"
+    edu_status = "Pursuing B.Tech in CSE."
+    edu_institution = "SASTRA University, Thanjavur."
+  
+    passion = [
+        "Explore Data",
+        "Helping others to get started",
+        "Data Science Hackathons",
+        "Applied Artificial Intelligence"
+      ]
+   
+    def get_volunteer_experience():
+    
+        '''Returns (exp: list) : My experiences in technical communities.'''
+        
+        exp = [
+           "Head - Machine Learning Cluster, Developer Community - SASTRA.",
+           "Core Team Member, Google Developer Students Club - SASTRA."
+         ]
+         
+        return exp
+```
 
 ### **GitHub stats :**
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balamurugan1603&theme=monokai) |

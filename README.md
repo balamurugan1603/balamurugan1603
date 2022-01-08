@@ -28,6 +28,9 @@ class WhoAmI:
          ]
          
         return exp
+        
+    def get_current_focus():
+        return "Natural Language Processing"
 ```
 
 ### **GitHub stats :**

@@ -1,7 +1,7 @@
 | ![image](https://user-images.githubusercontent.com/75413685/145682663-72a8a5c7-ef9f-403a-ab45-cf9122ecb27f.png) |
 | --- |
 
-### Hey there 👋
+### Hello World 👋
 ```py
 class WhoAmI:
 

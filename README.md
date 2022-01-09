@@ -18,9 +18,9 @@ class WhoAmI:
         "Applied Artificial Intelligence"
       ]
    
-    def get_volunteer_experience():
+    def get_activities():
     
-        ''' Returns (exp: list) : My experiences in technical communities. '''
+        ''' Returns (exp: list) : Participation in technical communities. '''
         
         exp = [
            "Head - Machine Learning Cluster, Developer Community - SASTRA.",

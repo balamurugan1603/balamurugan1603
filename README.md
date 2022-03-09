@@ -3,24 +3,27 @@
 
 ### Hello World 👋
 ```py
-class WhoAmI:
+class WhoAmI(DataScienceEnthusiast):
 
     ''' About myself '''
     
-    user = "Balamurugan P"
-    edu_status = "Pursuing B.Tech in CSE."
-    edu_institution = "SASTRA University, Thanjavur."
+    def __init__(self):
+    
+        super(WhoAmI, self).__init__()
+        self.user = "Balamurugan P"
+        self.edu_status = "Pursuing B.Tech in CSE."
+        self.edu_institution = "SASTRA University, Thanjavur."
   
-    passion = [
-        "Explore Data",
-        "Helping others to get started",
-        "Data Science Hackathons",
-        "Applied Artificial Intelligence"
-      ]
+        self.passion = [
+            "Explore Data",
+            "Helping others to get started",
+            "Data Science Hackathons",
+            "Applied Artificial Intelligence"
+          ]
    
     def get_activities():
     
-        ''' Returns (exp: list) : Participation in technical communities. '''
+        ''' Returns (exp: list) : Extra curricular and community activities. '''
         
         exp = [
            "Head - Machine Learning Cluster, Developer Community - SASTRA.",
